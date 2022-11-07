@@ -270,6 +270,21 @@ The Linux Plumbers Conference is the premier event for developers working at all
       <itunes:image href="https://i.ytimg.com/vi_webp/SitfZLoEFww/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[Design and implementation of Autocaching for CXLSSD - Heekwon Park
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Design and implementation of Autocaching for CXLSSD - Heekwon Park]]></title>
+      <guid>TR0-f_jwNpc</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=TR0-f_jwNpc</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/TR0-f_jwNpc.mkv" length="105461024" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/TR0-f_jwNpc/maxresdefault.webp"/>
+    </item>
+    <item>
       <description><![CDATA[CXL 2.0+ Emulation With QEMU Status, requirements and roadmap. - Jonathan Cameron
 
 ---
