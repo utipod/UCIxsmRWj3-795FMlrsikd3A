@@ -165,6 +165,21 @@ The Linux Plumbers Conference is the premier event for developers working at all
       <itunes:image href="https://i.ytimg.com/vi_webp/LFJQ1PGGF7Q/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[GKI Experience - Elliot Berman
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[GKI Experience - Elliot Berman]]></title>
+      <guid>Lc8PsEFrkGI</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=Lc8PsEFrkGI</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/Lc8PsEFrkGI.mkv" length="34690798" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/Lc8PsEFrkGI/maxresdefault.webp"/>
+    </item>
+    <item>
       <description><![CDATA[Upstream & Guest Distro support for Confidential Compute - Jianxiong Gao
 
 ---
