@@ -15,6 +15,21 @@ The primary purpose is to host the official videos from LPC events.
       <link>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</link>
     </image>
     <item>
+      <description><![CDATA[Rust in the Kernel (via eBPF) - Dave Tucker, Michal Rostecki
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Rust in the Kernel (via eBPF) - Dave Tucker, Michal Rostecki]]></title>
+      <guid>0k4AcBdaSRw</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=0k4AcBdaSRw</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/0k4AcBdaSRw.mkv" length="83422251" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/0k4AcBdaSRw/maxresdefault.webp"/>
+    </item>
+    <item>
       <description><![CDATA[Unprivileged CRIU - Younes Manton
 
 ---
