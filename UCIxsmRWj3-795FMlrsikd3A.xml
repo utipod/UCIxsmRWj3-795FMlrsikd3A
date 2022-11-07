@@ -255,6 +255,21 @@ The Linux Plumbers Conference is the premier event for developers working at all
       <itunes:image href="https://i.ytimg.com/vi_webp/oLG-uijW1X0/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[CXL Dynamic Capacity MM - Jonathan Cameron, Navneet Singh
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[CXL Dynamic Capacity MM - Jonathan Cameron, Navneet Singh]]></title>
+      <guid>pAiNeCZd2rQ</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=pAiNeCZd2rQ</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/pAiNeCZd2rQ.mkv" length="82861636" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/pAiNeCZd2rQ/maxresdefault.webp"/>
+    </item>
+    <item>
       <description><![CDATA[cgroup rstat's advanced adoption - Michal Koutný
 
 ---
