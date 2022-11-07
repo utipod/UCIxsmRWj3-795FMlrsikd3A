@@ -195,6 +195,21 @@ The Linux Plumbers Conference is the premier event for developers working at all
       <itunes:image href="https://i.ytimg.com/vi_webp/D8FX1enoZnM/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[Preserving guest memory across kexec - James Gowans
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Preserving guest memory across kexec - James Gowans]]></title>
+      <guid>FW9EaRWBBts</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=FW9EaRWBBts</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/FW9EaRWBBts.mkv" length="61778605" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/FW9EaRWBBts/maxresdefault.webp"/>
+    </item>
+    <item>
       <description><![CDATA[Dynamic Energy Model to handle leakage power - Lukasz Luba
 
 ---
