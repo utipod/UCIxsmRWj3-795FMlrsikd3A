@@ -299,5 +299,20 @@ The Linux Plumbers Conference is the premier event for developers working at all
       <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/yT1fcU028io.mkv" length="65430104" type="video/x-matroska"/>
       <itunes:image href="https://i.ytimg.com/vi/yT1fcU028io/maxresdefault.jpg"/>
     </item>
+    <item>
+      <description><![CDATA[Technical debt - Matthias Männich
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Technical debt - Matthias Männich]]></title>
+      <guid>yWGZLJQHdkA</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=yWGZLJQHdkA</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/yWGZLJQHdkA.mkv" length="20235404" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/yWGZLJQHdkA/maxresdefault.webp"/>
+    </item>
   </channel>
 </rss>
