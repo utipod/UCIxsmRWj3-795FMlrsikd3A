@@ -75,6 +75,21 @@ The Linux Plumbers Conference is the premier event for developers working at all
       <itunes:image href="https://i.ytimg.com/vi_webp/61wblBZO_o4/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[Restricting access to IPP printers with OAuth2 framework - Piotr Pawliczek
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Restricting access to IPP printers with OAuth2 framework - Piotr Pawliczek]]></title>
+      <guid>8UjrKos6LuY</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=8UjrKos6LuY</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/8UjrKos6LuY.mkv" length="94867171" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/8UjrKos6LuY/maxresdefault.webp"/>
+    </item>
+    <item>
       <description><![CDATA[CXL hotplug: spec to reality - PJ Waskiewicz
 
 ---
