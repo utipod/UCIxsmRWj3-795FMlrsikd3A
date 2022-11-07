@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Linux Plumbers Conference</title>
+    <link>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</link>
+    <description>This channel is managed by the Linux Plumbers Conference (LPC) committee. 
+
+The primary purpose is to host the official videos from LPC events. 
+
+</description>
+    <generator>utipod</generator>
+    <image>
+      <url>https://yt3.ggpht.com/8m2vQvrMDFdnKC7HkY9R_gWjgsTyLIEQJfVhVXTzlGYKBCFk8lEDLp38HluKxixKFftqDzG7ZQ=s0</url>
+      <title>Linux Plumbers Conference</title>
+      <link>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</link>
+    </image>
+    <item>
+      <description><![CDATA[CXL and confidential computing - Jérôme Glisse
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[CXL and confidential computing - Jérôme Glisse]]></title>
+      <guid>x0uksfEPedo</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=x0uksfEPedo</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/x0uksfEPedo.mkv" length="80381876" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/x0uksfEPedo/maxresdefault.webp"/>
+    </item>
+  </channel>
+</rss>
