@@ -15,6 +15,21 @@ The primary purpose is to host the official videos from LPC events.
       <link>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</link>
     </image>
     <item>
+      <description><![CDATA[Closing session - Christian Brauner
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Closing session - Christian Brauner]]></title>
+      <guid>eMxXkM-9vkk</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=eMxXkM-9vkk</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/eMxXkM-9vkk.mkv" length="1333450" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/eMxXkM-9vkk/maxresdefault.webp"/>
+    </item>
+    <item>
       <description><![CDATA[CXL and confidential computing - Jérôme Glisse
 
 ---
