@@ -60,6 +60,21 @@ The Linux Plumbers Conference is the premier event for developers working at all
       <itunes:image href="https://i.ytimg.com/vi_webp/4t1WySGdYq0/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[CXL Type-3 device discovery, configuration in firmware and prepare ACPI tables for kernel usage - Sayanta Pattanayak
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[CXL Type-3 device discovery, configuration in firmware and prepare ACPI tables... Sayanta Pattanayak]]></title>
+      <guid>61wblBZO_o4</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=61wblBZO_o4</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/61wblBZO_o4.mkv" length="110495021" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/61wblBZO_o4/maxresdefault.webp"/>
+    </item>
+    <item>
       <description><![CDATA[CXL hotplug: spec to reality - PJ Waskiewicz
 
 ---
