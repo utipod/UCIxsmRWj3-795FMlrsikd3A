@@ -120,6 +120,21 @@ The Linux Plumbers Conference is the premier event for developers working at all
       <itunes:image href="https://i.ytimg.com/vi_webp/BlVO3v_K58M/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[Linux Rust NVMe Driver Status Update - Andreas Hindborg
+
+---
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond. https://lpc.events/]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Linux Rust NVMe Driver Status Update - Andreas Hindborg]]></title>
+      <guid>BwywU1MqW38</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A</source>
+      <author>Linux Plumbers Conference</author>
+      <link>https://www.youtube.com/watch?v=BwywU1MqW38</link>
+      <enclosure url="http://174.89.235.81:8080/UCIxsmRWj3-795FMlrsikd3A/BwywU1MqW38.mkv" length="54200882" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/BwywU1MqW38/maxresdefault.webp"/>
+    </item>
+    <item>
       <description><![CDATA[Dynamic Energy Model to handle leakage power - Lukasz Luba
 
 ---
